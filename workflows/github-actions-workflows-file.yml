@@ -1,0 +1,9 @@
+name: Github Action Demo 
+on: push
+jobs:
+    Exampel-actions-Job:  
+      name: Exploring Github Action 
+      runs-on: ubuntu-test
+      steps: 
+
+      
